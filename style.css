@@ -1,0 +1,12 @@
+hr{
+    border:1px solid;
+}
+
+img{
+    height: 225px;
+    width: 225px;
+    border-radius: 50%;
+}
+a:hover{
+    color:aqua;
+}
